@@ -1,6 +1,6 @@
 # Today I Learned
 
-Sungwon이 오늘 새로 배운 것을 다음의 규칙으로 commit 합니다. [jay jin님 참고](https://github.com/thoughtbot/til)
+Sungwon이 오늘 새로 배운 것을 다음의 규칙으로 commit 합니다. [jay jin님 참고](https://github.com/milooy/TIL)
 
 ## 작성 규칙
 - 문서 생성은 [GFM (Github Flavored Markdown)](https://help.github.com/articles/github-flavored-markdown/) 을 사용합니다. (확장자 `.md`)
