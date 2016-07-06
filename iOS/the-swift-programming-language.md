@@ -6,12 +6,10 @@ let은 수정이 불가능하다, var는 수정이 가능하다.
 ```objective-c
 var myVariable = 42
 myVariable = 50
-```
 let Pi = 3.14
 let explicitDouble: Double = 70
 let label = "pi is"
 let piLabel = label + String(Pi)
-
 let apples = 3
 let oranges = 5
 let fruitDesc = "I have \(apples + oranges) fruits."
@@ -42,7 +40,7 @@ for score in scoreList {
     }
 }
 
-//값의 타입 뒤에 ?를 붙이면 옵셔널 값. ?이 없으면 nil이 들어가지 않는다.
+//값의 타입 뒤에 ?를 붙이면 Optional. ?이 없으면 nil이 들어가지 않는다.
 var optionalString: String? = "Hello"
 optionalString = nil
 
@@ -52,7 +50,7 @@ if let name = optionalName { //옵션값이 nil이면 조건문 false로 안들�
     greeting = "Hello, \(name)"
 }
 
-//switch. break키워드 안써도 된다.
+//switch. break를 쓰지 않아도 됨.
 let vagetable = "red pepper"
 switch vegetable {
     case "vege1":
@@ -130,5 +128,5 @@ numbers.map({
 })
 ```
 
-## Refer
-http://swift.leantra.kr/#a-swift-tour
+## 참고
+iBook The Swift Programming Language(Swift 3)
