@@ -1,3 +1,4 @@
+![We Bear Bears](http://i.newsarama.com/images/i/000/152/747/i02/Bears_Logo.jpg?1439493495)
 # We Bare Bears Season1
 Sungwon park이 영어 공부를 위해, 보는 어린이 만화입니다.
 
