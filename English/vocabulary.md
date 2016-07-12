@@ -10,6 +10,8 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - 예문을 무조건 봅니다. (예문을 볼때 간단하게 문장구조를 나누어 봅니다)
 - 단어 뜻을 적지말고, 영어 단어만 쭉 적으며 공부하고, 기억이 잘 안나면 형광팬으로 표시하고 단어집을 보고 복습합니다.
 - 예문을 주어 동사, 목적어 보어 정도로 분석하며 해석하며 해석이 맞는지 확인 하며 봅니다.
+- 어원을 같이보며 공부하면 더 재미있습니다.?
 
 ## 외운 영어 단어
 Day1. Application, Apply, Applicant, Appliance, Associate, Aptitude, Apprehensive, Concerned  
+Day2. Bilingual, Broad, Broaden, Broadly, Limited, Narrow, Commensurate, Candidate, Certificate, Certify, Certification, Certificated
