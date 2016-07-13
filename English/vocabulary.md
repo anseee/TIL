@@ -1,6 +1,6 @@
 English Vocabulary
 ======================
-Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기록합니다. 참고:[하민지 공신님](https://youtu.be/DtTKvBVNuy8)
+Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기록합니다. 참고 : [하민지 공신님](https://youtu.be/DtTKvBVNuy8)
 
 # 공부시 주의사항
 - 욕심내지 말고 할수 있는 만큼 외웁니다.
