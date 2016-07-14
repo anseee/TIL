@@ -17,3 +17,4 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - Day1. Application, Apply, Applicant, Appliance, Associate, Aptitude, Apprehensive, Concerned  
 - Day2. Bilingual, Broad, Broaden, Broadly, Limited, Narrow, Commensurate, Candidate, Certificate, Certify, Certification, Certificated
 - Day3. Confidence, Confident, In Confidence, Consultant, Consult, Consult with, Consultation, Degree, 
+- Day4. Eligible, Eligibility, Ineligible, Employment, Employ, Employer, Employee, Unemployment, Allowable, Entitle
