@@ -19,3 +19,4 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - Day3. Confidence, Confident, In Confidence, Consultant, Consult, Consult with, Consultation, Degree, 
 - Day4. Eligible, Eligibility, Ineligible, Employment, Employ, Employer, Employee, Unemployment, Allowable, Entitle
 - Day5. Get through, Highly, Pass, Qualified, Competitive, Profitable, Increment, Lead to
+- Day6. 복습 시간. 시험 보고, 기억이 안나는 애들 리스트를 단어장을 보고 다시 공부[Broad, Broaden, Broadly, Commensurate, Confidence, Confident, eligible, eligibility, ineligible]
