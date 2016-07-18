@@ -41,3 +41,9 @@
 - sudo pip install flask
 - sudo pip install sqlalchemy
 - sudo apt-get install python-psycopg2
+
+## Postgresql 설치하기
+
+- sudo apt-get install postgresql
+- sudo apt-get install postgresql-doc-8.4
+- sudo apt-get install pgadmin3
