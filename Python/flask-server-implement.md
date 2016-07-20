@@ -47,3 +47,29 @@
 - sudo apt-get install postgresql
 - sudo apt-get install postgresql-doc-8.4
 - sudo apt-get install pgadmin3
+
+- sudo apt-get install edit
+- sudo apt-get install postgresql
+
+- sudo -u postgres psql
+- ALTER USER postgres WITH ENCRYPTED PASSWORD ‘password’
+- \q
+
+- sudo -H /bin/bash
+
+- 버전 확인 잘 할것
+- vi /etc/postgresql/9.3/main/postgresql.conf
+
+- #listen_addresses = 'localhost' 를 주석 풀고
+- listen_addresses = '*' 로 수정.
+- i 누르고 수정
+- esc 누르고 :wq 입력후 엔터
+
+- vi /etc/postgresql/9.3/main/pg_hba.conf
+
+- # IPv4 local connections:
+- host     all        all        0.0.0.0/0        trust -- 이렇게 수정
+- i 누르고 수정
+- esc 누르고 :wq 입력후 엔터
+
+- service postgresql restart
