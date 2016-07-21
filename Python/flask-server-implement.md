@@ -89,10 +89,11 @@
 - \dn
 
 ## 테이블 만들기
+```
 CREATE TABLE album(
    album_key INT PRIMARY KEY     NOT NULL,
    title           TEXT,
    regi_date            TEXT,
    thumbnail        TEXT
 );
-
+```
