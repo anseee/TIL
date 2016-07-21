@@ -60,16 +60,39 @@
 - 버전 확인 잘 할것
 - vi /etc/postgresql/9.3/main/postgresql.conf
 
-- #listen_addresses = 'localhost' 를 주석 풀고
+- listen_addresses = 'localhost' 를 주석 풀고
 - listen_addresses = '*' 로 수정.
 - i 누르고 수정
 - esc 누르고 :wq 입력후 엔터
 
 - vi /etc/postgresql/9.3/main/pg_hba.conf
 
-- # IPv4 local connections:
+- IPv4 local connections:
 - host     all        all        0.0.0.0/0        trust -- 이렇게 수정
 - i 누르고 수정
 - esc 누르고 :wq 입력후 엔터
 
 - service postgresql restart
+
+##Using PostgreSQL Roles and Databases
+
+- sudo -i -u postgres
+- psql
+- \q 나가기
+
+- psql
+- \password '계정'
+- createdb '데이터베이스 이름'
+- \list 데이터베이스 목록
+- psql -U postgres -d ansee
+- \d
+- \dn
+
+## 테이블 만들기
+CREATE TABLE album(
+   album_key INT PRIMARY KEY     NOT NULL,
+   title           TEXT,
+   regi_date            TEXT,
+   thumbnail        TEXT
+);
+
