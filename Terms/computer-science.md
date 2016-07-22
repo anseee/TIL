@@ -17,3 +17,16 @@ Sungwon park이 컴퓨터 과학에서 모르는 용어들을 정리합니다.
 
 ## Redirect(리다이렉트)
 - 
+
+## Parsing(파싱)
+- 
+
+## Mutex(뮤텍스)
+-
+
+## Semaphore(세마포어)
+- 
+
+## DeadLock(교착상태)
+- 
+
