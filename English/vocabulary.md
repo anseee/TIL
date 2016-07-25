@@ -26,3 +26,4 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - Day10. Prospective, Prospect, Proficiency, Proficient, Qualified, Qualify, Qualification, recruit, recruitment, reference, refer
 - Day11. Regardless of, Resume', Requirement, Require, Prerequisite, Wage, Compensation, Less
 - Day12. 복습 시간. 시험 보고, 기억이 안나는 애들 리스트 단어장을 보고 다시 공부 [associate, certify, commensurate, eligible, occupational, occupant, occupy, profession, principle, proficiency, proficient, prospective, prospect, less, prerequisite, compensation] / 챕터 1 연습문제 풀기 / 챕터 1 완료
+- Day13. Accordance, Abolish, Abolition, Access, Accessible, Accessibility
