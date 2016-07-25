@@ -21,6 +21,9 @@ Sungwon park이 컴퓨터 과학에서 모르는 용어들을 정리합니다.
 ## Parsing(파싱)
 - 
 
+## JVM(Java Virtual Machine)
+- 
+
 ## Mutex(뮤텍스)
 -
 
