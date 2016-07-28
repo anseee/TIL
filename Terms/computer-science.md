@@ -33,3 +33,5 @@ Sungwon park이 컴퓨터 과학에서 모르는 용어들을 정리합니다.
 ## DeadLock(교착상태)
 - 
 
+## 클러스터(Cluster)
+-
