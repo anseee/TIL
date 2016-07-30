@@ -31,3 +31,4 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - Day15. At all times, Attire, Attorney, Lawyer, Authorize, Authorized, Authorization, Authority, Code, Circumscribe, Legislation
 - Day16. Comply, Compliance, Obey, Observe, Concern, Custody
 - Day17. Effect Effective, Effectively, Enforce, Enforcement, Exception, Except, Exceptionally
+- Day18. 복습 시간. (Effect, Accordance, Accuse, Accusation, Compliance)
