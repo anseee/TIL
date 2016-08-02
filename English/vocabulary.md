@@ -33,3 +33,4 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - Day17. Effect Effective, Effectively, Enforce, Enforcement, Exception, Except, Exceptionally
 - Day18. 복습 시간. (Effect, Accordance, Accuse, Accusation, Compliance)
 - Day19. Form, Formal, Formation, Fraud, Fraudulent, Habit, Habitual, Charge, Traditional, Convention, Immediately, Immediate, Installments, Deduct
+- Day20. Infringement, Infringe, Legislation, Legislate, Legislator, Committee, Legitimate, Illegal, Illegitimate, Litigation, Litigate, lawsuit, pursue, delinquent, Observance, Observe
