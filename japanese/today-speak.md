@@ -1,10 +1,11 @@
 #Today Speak
-Sungwon Park이 일본 회화를 공부하기 위해 만들었습니다. 참고[http://www.yamette.com/]
+Sungwon Park이 일본어를 공부하기 위해 만들었습니다. 참고[http://www.yamette.com/]
 
-## 배운 회화들
+## 주의사항
+* 영어로 표기된 발음은 보지 않습니다.
+* 기초부터 탄탄히!
 
-* 2016.07.30 : 
-  * だめではないですが、一般いっぱん的てきではないです。
-  * dame deha / nai desu ga, / ippanteki deha / nai desu.
-  * 안 되는 건 / 아니지만, / 일반적이진 / 않아요.
+## 오늘 배운 히라가나
+
+* 아이우에오 (あいうえお）
 
