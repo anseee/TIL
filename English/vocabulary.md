@@ -35,3 +35,4 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - Day19. Form, Formal, Formation, Fraud, Fraudulent, Habit, Habitual, Charge, Traditional, Convention, Immediately, Immediate, Installments, Deduct
 - Day20. Infringement, Infringe, Legislation, Legislate, Legislator, Committee, Legitimate, Illegal, Illegitimate, Litigation, Litigate, lawsuit, pursue, delinquent, Observance, Observe
 - Day21. Petition, Circulated, Policy, Procedure, Proceed, Procedural, absenteeism, outline, Patent, Prohibit, Prohibition, Forbid, Prosecute, Prosecution, Prosecutor
+- Day22. Review time (Enforce, Enforcement, Formal, Formation, Fraudulent, Habitual, Convention, Installment, Deduct, Infringement, Infringe, Legislation, Legislate, Legislator, Committee, Legitimate, Litigation, Pursue, Deliquent, Litigate, Lawsuit, Absenteeism, Prosecute, Prosecution, Prosecutor)
