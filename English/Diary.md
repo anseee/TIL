@@ -19,3 +19,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 #### 2016. 08. 05
   * I saw article in Facebook for accident in busan. 4 people was killed. I feel very upset because of other car . It run quickly in normal road. this is cause. Be careful when drive in there. when I leave in home, I called to store of Chicken Feet. after that, deliverer arrived in my home. I given the card to him. He paid using my card. He leave in my home when finish paying. i and mother, uncle ate Chicken Feet. it is good  
+
+#### 2016. 08. 06
+   * Today is Saturday. I like it. I woke up 8 A.M. I studied japanese and english. Today I thought that I got to refresh my mine. In the morning, I worked up. Afther that. I feld freshing my brain and body. I watched TED about "How to remove bed habit" Finishing it, I wrriten an outline in small notebook about it for memorizing. In the evening, I cleaned the electric fan. It has had many dust. It is hard to dissemble it. Its case is not intermeshed. So I used tool. and then, I had success to take apart. I'm really happy. After that, I cleaned it in the restroom. I had watched animation before I cleaned electric fan. that's all
