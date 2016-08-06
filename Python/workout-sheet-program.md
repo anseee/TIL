@@ -8,4 +8,5 @@ Sungwon Park이 운동한 사항들을 기록하기 위해, 웹앱 개발을 하
   * node.js설치,
   * npm 설치,
   * package nam install
-  *  
+  * [googlelink]: https://google.com "Go google"
+  * angular.io: [Google]["https://angular.io/docs/ts/latest/quickstart.html#!#add-config-files"] 
