@@ -7,4 +7,5 @@ Sungwon Park이 운동한 사항들을 기록하기 위해, 웹앱 개발을 하
 * Angular2 설치
   * node.js설치,
   * npm 설치,
-  *
+  * package nam install
+  *  
