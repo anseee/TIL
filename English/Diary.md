@@ -22,3 +22,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 #### 2016. 08. 06
    * Today is Saturday. I like it. I woke up 8 A.M. I studied japanese and english. Today I thought that I got to refresh my mine. In the morning, I worked up. Afther that. I feld freshing my brain and body. I watched TED about "How to remove bed habit" Finishing it, I wrriten an outline in small notebook about it for memorizing. In the evening, I cleaned the electric fan. It has had many dust. It is hard to dissemble it. Its case is not intermeshed. So I used tool. and then, I had success to take apart. I'm really happy. After that, I cleaned it in the restroom. I had watched animation before I cleaned electric fan. that's all
+
+#### 2016. 08. 07
+   * I woke up 12 p.m. I'm very lazy. so anyway, I sent a message to my girl friend and I'm so sorry about late to go. She told me that's ok, but i thought that's not ok. and i went to bus stop and did take the bus. and i should go to subway to take the train. after 1 hour later, i met her in front of ticket. I hanged out with her. To eat taco in KFC and To Talk, Shopping, To eat curry. and walking around. We sit in the chair beside CGV. and talked kind of story about us. and We leave in home each
