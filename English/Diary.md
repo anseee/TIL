@@ -25,3 +25,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 #### 2016. 08. 07
    * I woke up 12 p.m. I'm very lazy. so anyway, I sent a message to my girl friend and I'm so sorry about late to go. She told me that's ok, but i thought that's not ok. and i went to bus stop and did take the bus. and i should go to subway to take the train. after 1 hour later, i met her in front of ticket. I hanged out with her. To eat taco in KFC and To Talk, Shopping, To eat curry. and walking around. We sit in the chair beside CGV. and talked kind of story about us. and We leave in home each
+
+#### 2016. 08. 08
+   * Today is really tired and hot day. I went company frequently exceptionally weekend. in the subway, i watched article about angular. Angular is framework for web app. I thought i want to make my web app using it. I studied python and then i just have only to make it. but i always ended to think. So I should change my mind. No just thinking and Just Do it!!. If end thinking only, I have no anyway. So First I got to do anything. No think what to do and how to do. in doing, i can think with doing. At the result of doing, I will accomplish what i thought. 
