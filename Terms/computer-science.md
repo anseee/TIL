@@ -35,3 +35,11 @@ Sungwon park이 컴퓨터 과학에서 모르는 용어들을 정리합니다.
 
 ## 클러스터(Cluster)
 -
+
+## 도메인 주도 설계(Domain Driven Design)
+-
+
+## 의존성 주입
+-
+
+## 프로토콜 (Protocol)
