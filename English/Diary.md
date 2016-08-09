@@ -28,3 +28,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 #### 2016. 08. 08
    * Today is really tired and hot day. I went company frequently exceptionally weekend. in the subway, i watched article about angular. Angular is framework for web app. I thought i want to make my web app using it. I studied python and then i just have only to make it. but i always ended to think. So I should change my mind. No just thinking and Just Do it!!. If end thinking only, I have no anyway. So First I got to do anything. No think what to do and how to do. in doing, i can think with doing. At the result of doing, I will accomplish what i thought. 
+
+#### 2016. 08. 09
+   * I woke up early. I have a success. Luckily, My eyes was opened by bright light. I ate breakfast for so long. i'm frequently don't eat it in the morning until yesterday. anyway, today is perfect day. and now i'm very tired and drowzy. I want to study that i want, however My eyes want to close. Now i don't want to think anything. I just want to stop it. Today i really hated to write diary. I had refrain my think. I written it. i won myself.
