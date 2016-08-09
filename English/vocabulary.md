@@ -36,3 +36,6 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - Day20. Infringement, Infringe, Legislation, Legislate, Legislator, Committee, Legitimate, Illegal, Illegitimate, Litigation, Litigate, lawsuit, pursue, delinquent, Observance, Observe
 - Day21. Petition, Circulated, Policy, Procedure, Proceed, Procedural, absenteeism, outline, Patent, Prohibit, Prohibition, Forbid, Prosecute, Prosecution, Prosecutor
 - Day22. Review time (Enforce, Enforcement, Formal, Formation, Fraudulent, Habitual, Convention, Installment, Deduct, Infringement, Infringe, Legislation, Legislate, Legislator, Committee, Legitimate, Litigation, Pursue, Deliquent, Litigate, Lawsuit, Absenteeism, Prosecute, Prosecution, Prosecutor)
+- Day23. Refrain, Regulation, Regulate, Control, Restrict, Restriction, Restrictive, Severely, Severe, Sternly, Leniently, Reprimand
+- Day24. Standard, Standardize, Thoroughly, Thorough, Violate, Violation, Break, Infringe, Comply with, Observe, Follow, Obey
+- Day25. 복습 시간 및 2장 문제 풀이 (Refrain, Severe, Sternly, Leniently, Reprimand, Violate, Violation)
