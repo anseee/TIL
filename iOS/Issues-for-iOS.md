@@ -7,6 +7,15 @@ Sungwon Park이 아이폰 프로젝트를 하면서 이슈 사항들과 해결�
 
   * App icon file must be named Icon.png. It appears that your binary includes a file with incorrect name or a space in between. Check the app icon file's name. Also check your XCode project for any stray file with name Icon .png. Sometimes due to version control softwares there can be some hidden files backup with strange name. Check for hidden files/folders with name Icon . in your XCode project. Any such files getting included in your XCode project will get added in the app binary resources.
 
+#### 2016. 08. 10
+   * 디렉토리 구조를 변경하는 상황에서, “no such file or directory error” 에러가 발생했다. 제거된 리소스를 계속해서 참조하고 있어 발생하였다. 아래는 해결 방법을 나열했다. (참고 : StackOver Flow)
+   * Open your project in Xcode
+   * Click on your project
+   * Click on your project under Targets
+   * Hit the build phases tab
+   * Open “Copy Bundle Resources” near the bottom
+   * Look for any resources listed in red!
+   
 ## 인증서 이슈
 
 * APNS 전송이 안되서 확인해보니 배포용 인증서 설정시, 서버는 배포용 APNS 인증서를, 클라이언트는 일반 배포용 인증서를 이용해서 설정하니 정상적으로 받았다. 매번 인증서 설정할때마다 새롭다.
