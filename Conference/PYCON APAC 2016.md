@@ -27,7 +27,9 @@ Sungwon Park이 이번 파이콘 컨퍼런스를 다녀와서 정리한 내용�
 * 대부분 사람이 해결하고 기록을 남김(대충)
 * 저는 나누었다 주문서는 역주문서 
 * 주문 과정 기록은 필수.
-*  
+* 아임포트 PG사 연동 서비스 대응 빠름.
+* pip install import-rest-client
+* 
 
 #### Django, Flask 고민없이 개발하고 서비스하는 PaaS, IBM Bluemix (공진기) 104 13:20
 *
@@ -85,5 +87,4 @@ Sungwon Park이 이번 파이콘 컨퍼런스를 다녀와서 정리한 내용�
 *
 #### Debugging Tips and Tricks (Roy Hyunjin Han)
 *
-
 
