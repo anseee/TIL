@@ -114,8 +114,8 @@ Sungwon Park이 이번 파이콘 컨퍼런스를 다녀와서 정리한 내용�
 * 장고와 파이썬의 힘이 크다.
 * 부서간의 벽이 없다.
 
-#### High-performance Networking with Python (김준기) 16:40
-*
+#### Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기 (한종원) 16:40
+* 
 
 ## 2016. 08. 14 (일요일)
 
