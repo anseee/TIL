@@ -8,6 +8,8 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 * 얼마나 잤는지(slept), 읽었는지(read), 공부했는지(studied)
 * 느낌이 어땠는지(felt)
 * 무엇을 좋아하는지(like), 싫어하는지(dislike), 미워하는지(hate), 하기를 원하는지(want to), 하기를 싫어하는지(don't want to do)
+* Today is the forth of March (오늘은 3월 4일이다)
+
 
 ###일기 내용
 
