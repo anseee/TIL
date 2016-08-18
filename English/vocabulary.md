@@ -40,3 +40,5 @@ Sungwon Park이 영어 단어를 얼마나 외우고 진행되고 있는지 기�
 - Day24. Standard, Standardize, Thoroughly, Thorough, Violate, Violation, Break, Infringe, Comply with, Observe, Follow, Obey
 - Day25. 복습 시간 및 2장 문제 풀이 (Refrain, Severe, Sternly, Leniently, Reprimand, Violate, Violation)
 - Day26. Accustomed, Acquaint, Acquaintance, Familiarize, Affiliate, Attendance, Attend, Attendant
+- Day27. Check, Inspect, Examine, Colleague, Associate, Coworker, Peer, Concentrate, Concentration, Concentrated, Condense
+- Day28. Conglomerate, Convey, Conveyor, Corporation, Corporate
