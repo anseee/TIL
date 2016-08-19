@@ -49,3 +49,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 ### 2016. 08. 18
    * I woke up late because i'm very tired so I was sleeping addtional time about 1 hours. after then. I get up and drunk health beverage repidly for my health. and when i arrived in company. I'm Starting to work and concentrated for making apps and many issues. when i took a subway and in there, other person called me. and She said "your package is in my house. you have to get it. i want to give you it but i have a baby so come here yourself" So i said "I'm so sorry about that. I will give it later". When i arrived my apartment. i went to there. in front of door, i said "Excuse me. i'm here to get the package" but she have no answer. so i come back my home. "why don't she is not there" i thought. "i want to wear new T-shirts" :(
+
+### 2016. 08. 18
+   * I realized that i should study reading for english. so i searched it in the youtube. it's title is 'Secret Reading'. In the video, It explain about reading. I watched three videos and I thought that i wanna see it. today i'm very weak and tired so bye bye :)
