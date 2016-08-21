@@ -1,5 +1,9 @@
 #Git 명령어 모음
 
+##git pull 충돌시 명령. git stash
+*git stash
+*git pull origin master
+
 ##원격 저장소에서 클론하기
 * git clone 주소
 
