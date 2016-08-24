@@ -53,5 +53,8 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 ### 2016. 08. 19
    * I realized that i should study reading for english. so i searched it in the youtube. it's title is 'Secret Reading'. In the video, It explain about reading. I watched three videos and I thought that i wanna see it. today i'm very weak and tired so bye bye :)
 
-### 2016. 09. 21
+### 2016. 08. 21
    * Today is uncle's birthday. so i didn't think about it, my mother told me that. She asked me that make seaweed soup. so i made ii to see recipe. when i eat it. it is really nice good. that's it and uncle was happy about it. that's it
+   
+### 2016. 08 .23
+   * I heard that my friend get a job in major company so i'm happy because i have thought that my friend have to be very well. one of the friend was well. he tried to study and many kind of strive about employment since since last two years. i known that. so today is very happy day.
