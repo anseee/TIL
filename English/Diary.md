@@ -56,5 +56,8 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 ### 2016. 08. 21
    * Today is uncle's birthday. so i didn't think about it, my mother told me that. She asked me that make seaweed soup. so i made ii to see recipe. when i eat it. it is really nice good. that's it and uncle was happy about it. that's it
    
-### 2016. 08 .23
+### 2016. 08. 23
    * I heard that my friend get a job in major company so i'm happy because i have thought that my friend have to be very well. one of the friend was well. he tried to study and many kind of strive about employment since since last two years. i known that. so today is very happy day.
+
+### 2016. 08. 24
+   * I studied about urban heat island article in video of "Secret Reading". i think that it's writer want to say that reason appearing this phenomenon is by human activity. Also article is saying that heat by human activity more hot then sun's heat. So i have a summary about this article. i thought that Urban Heat Island appeared In the city is very hot more sun's heat
