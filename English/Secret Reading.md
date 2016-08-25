@@ -25,3 +25,10 @@ Sungwon Park이 리딩 능력을 키우기위해 보는 영어 강의입니다
   * 추론 연습
   * 요약 연습
   * 모르는 단어가 나와도 주변 상황을 보고 예측 가능.
+
+### 2016. 08. 25
+  * 오늘도 역시 추론 연습
+  * 오늘 Urban heat Island 끝냄
+  * 끝까지 해보고 비판하자
+  * Animal Congregation 시작
+  * Animals combine two advantage of family and more larger groups
