@@ -61,3 +61,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 ### 2016. 08. 24
    * I studied about urban heat island article in video of "Secret Reading". i think that it's writer want to say that reason appearing this phenomenon is by human activity. Also article is saying that heat by human activity more hot then sun's heat. So i have a summary about this article. i thought that Urban Heat Island appeared In the city is very hot more sun's heat
+
+### 2016. 08. 25
+   * I ate chicken with colleague in the company. Chicken name is Curry Queen I recommend it. They ordered it not normal and little expensive because is not having bone. anyway this is good. For buying it, you should order in the BHC in korea dinner. Other foreigner said that korea chicken is more good than other country's it. so i proud about that because my country's value is little up. if value of korea increase more and more, it is good phenomenon to koreans i think. that's it
