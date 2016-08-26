@@ -33,7 +33,7 @@ Sungwon Park이 리딩 능력을 키우기위해 보는 영어 강의입니다
   * Animal Congregation 시작
   * Animals combine two advantage of family and more larger groups
 
-### 2016. 08. 25
+### 2016. 08. 26
   * 영어도 다 영어가 아니다
   * 좋은 글인지 아닌지 판단하는 눈이 필요하다
   * 역시 모르는 단어가 나와도 추론을 통해 이해한다
