@@ -64,3 +64,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 ### 2016. 08. 25
    * I ate chicken with colleague in the company. Chicken name is Curry Queen I recommend it. They ordered it not normal and little expensive because is not having bone. anyway this is good. For buying it, you should order in the BHC in korea dinner. Other foreigner said that korea chicken is more good than other country's it. so i proud about that because my country's value is little up. if value of korea increase more and more, it is good phenomenon to koreans i think. that's it
+
+### 2016. 08. 27 ~ 28
+   * I have a travel with my friend to the Dabudo. When we arrived in the pension, i had found a swimming pool in front of the there. We put on the swimsuit and entered in there. We hanged out with together. After an hour, We leaved in there and went to pension. We take a rest in there. In the evening, We ate a barbecue and beers and rice. It is very delicious. in the pension we played with card and we talked about anything with eating snack and pineapple and Guinness bear. and We slept in each bed.
