@@ -97,3 +97,8 @@ CREATE TABLE album(
    thumbnail        TEXT
 );
 ```
+
+## AWS 설정
+* 해당 Security Groups에서 Inbound 설정(postgresql, port설정)
+* Ngix 설정 flask, 
+* 이제 터미널을 종료해도 계속 돌도록 설정해야함.
