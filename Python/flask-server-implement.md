@@ -102,3 +102,4 @@ CREATE TABLE album(
 * 해당 Security Groups에서 Inbound 설정(postgresql, port설정)
 * Ngix 설정 flask, 
 * 이제 터미널을 종료해도 계속 돌도록 설정해야함.
+* nginx 설정 및 supervisor를 이용하여 터미널을 종료해도 계속적으로 서버가 돌도록 설정해놓음
