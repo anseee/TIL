@@ -45,3 +45,9 @@ Sungwon Park이 리딩 능력을 키우기위해 보는 영어 강의입니다
   * gather정도의 단어를 모른다면 밑바닥 수준이므로 단어를 외우자
   * Animal Congregation 강의하면서 최악의 지문이다.
 
+### 2016. 08. 29
+  * Invidious Discrimination에 대해
+  * rational justification없이 정당성 공평성 의무가 공식적 또는 비공식적으로 부당하게 차별하는 말
+  * 논리란 객관성 다수의 말, 하지만 다수가 정말 옳지 않는 말을 한다면?
+  * classify fy ~화 하다란 말
+
