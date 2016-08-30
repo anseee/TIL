@@ -51,3 +51,8 @@ Sungwon Park이 리딩 능력을 키우기위해 보는 영어 강의입니다
   * 논리란 객관성 다수의 말, 하지만 다수가 정말 옳지 않는 말을 한다면?
   * classify fy ~화 하다란 말
 
+### 2016. 08. 30
+  * If There is substative rational justification for unequal status, then the discrimination is not invidious
+  * 차별은 결코 나쁜것만이 아니다. 
+  * 예) 군대
+  * 올바른 시민 의식. 서로 양보하는 사회
