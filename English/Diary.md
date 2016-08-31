@@ -67,3 +67,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 ### 2016. 08. 27 ~ 28
    * I have a travel with my friend to the Dabudo. When we arrived in the pension, i had found a swimming pool in front of the there. We put on the swimsuit and entered in there. We hanged out with together. After an hour, We leaved in there and went to pension. We take a rest in there. In the evening, We ate a barbecue and beers and rice. It is very delicious. in the pension we played with card and we talked about anything with eating snack and pineapple and Guinness bear. and We slept in each bed.
+
+### 2016. 08. 31
+   * Weather was suddenly changed. it is cold and strong wind. because hurricane have come to korea outline. so it is not dangerous but many rain and strong wind will come here. people don't wear short sleeve. they wear long sleeve. Season will change. but i'm still wear short sleeve because i don't feel more cold than other people. 
