@@ -70,3 +70,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 ### 2016. 08. 31
    * Weather was suddenly changed. it is cold and strong wind. because hurricane have come to korea outline. so it is not dangerous but many rain and strong wind will come here. people don't wear short sleeve. they wear long sleeve. Season will change. but i'm still wear short sleeve because i don't feel more cold than other people. 
+
+### 2016. 09. 01
+   * Today is first day of September. Anyway I always worked in company and arrived home. in the morning when i'm going to company, i listened the podcast of hanmadiro. and i studied about introducing myself. and It is amazing because different other teacher's teaching conversation of english. So the teacher was teaching the step about it. and i made introducing my self "I'm sungwon park. I'm a programmer specializing in iOS. I've been working as a programmer because i like my job" 
