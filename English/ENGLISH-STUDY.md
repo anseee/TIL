@@ -1,7 +1,7 @@
 # English Study
 Sungwon park이 하는 영어 공부들
 
-## 듀오링고 65일째
+## 듀오링고 66일째
 ![듀오링고](http://techholic.co.kr/wp-content/uploads/2014/05/duolingo_140529_2.jpg)
 
 ***
