@@ -73,3 +73,7 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 
 ### 2016. 09. 01
    * Today is first day of September. Anyway I always worked in company and arrived home. in the morning when i'm going to company, i listened the podcast of hanmadiro. and i studied about introducing myself. and It is amazing because different other teacher's teaching conversation of english. So the teacher was teaching the step about it. and i made introducing my self "I'm sungwon park. I'm a programmer specializing in iOS. I've been working as a programmer because i like my job" 
+   
+### 2016. 09. 12 
+   * Wow.. I'm very very tired. Yesterday is sunday. it is holiday!! but I worked.. because monday 2a.m is relase app for client company. So we should not have to go in company but doing. and We made for 24 hours. No sleep No rest just work and work Ha.. Now for writing this diary. I'am thinking that i do and i got angry like angry bird. Aha!!!!!!!!!!!!!!!!!!!! 
+   
