@@ -27,3 +27,6 @@ Sungwon Park이 아이폰 프로젝트를 하면서 이슈 사항들과 해결�
 #### 2016. 08. 24
    * status bar 터치시 맨 위로 가야되는데 이동되지 않는 이슈가 있었다. 검색을 해보니 scroll view를 상속받는 인스턴스들이 둘 이상이면 동작하지 않은것을 확인했고, status bar를 터치했을때, 맨 위로 이동하고자 하는 인스턴스에 scrollsToTop = YES로 설정 나머지는 NO로 설정하니 동작한다.
   
+#### 2016. 09. 17
+   * 이번에 xcode8로 업데이트 하면서 "Module file was created by an older version of the compiler" 에러가 나왔다. 현상을 찾아보니 xcode7에서 사용하다가 이번에 업데이트 하면서 충돌이 난듯하다. 기존 DerivedData를 제거("Remove all the derive data rm -rf ~/Library/Developer/Xcode/DerivedData/")하고 "carthage update --no-use-binaries."명령어 실행후 실행하니 매우 잘됬다 
+
