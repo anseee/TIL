@@ -18,16 +18,18 @@ Sungwon Park이 아이폰 프로젝트를 하면서 이슈 사항들과 해결�
 
 #### 2016. 08. 12
    * 테이블 뷰에서 셀 높이값이 0이면 테이블 섹션 자체를 부르지 않는 것을 확인했다. 분명 배열안에는 데이터가 있는데, 왜 테이블뷰에서 섹션을 잡아내지 못하는가에 대해 고민하다가 다행히 찾아내서 오늘도 살았다.
-## 인증서 이슈
+    
+#### 인증서 이슈
 
 * APNS 전송이 안되서 확인해보니 배포용 인증서 설정시, 서버는 배포용 APNS 인증서를, 클라이언트는 일반 배포용 인증서를 이용해서 설정하니 정상적으로 받았다. 매번 인증서 설정할때마다 새롭다.
-
 
 #### 2016. 08. 24
    * status bar 터치시 맨 위로 가야되는데 이동되지 않는 이슈가 있었다. 검색을 해보니 scroll view를 상속받는 인스턴스들이 둘 이상이면 동작하지 않은것을 확인했고, status bar를 터치했을때, 맨 위로 이동하고자 하는 인스턴스에 scrollsToTop = YES로 설정 나머지는 NO로 설정하니 동작한다.
   
 #### 2016. 09. 17
-   * 이번에 xcode8로 업데이트 하면서 "Module file was created by an older version of the compiler" 에러가 나왔다. 현상을 찾아보니 xcode7에서 사용하다가 이번에 업데이트 하면서 충돌이 난듯하다. 기존 DerivedData를 제거("Remove all the derive data rm -rf ~/Library/Developer/Xcode/DerivedData/")하고 "carthage update --no-use-binaries."명령어 실행후 실행하니 매우 잘됬다 
+   * 이번에 xcode8로 업데이트 하면서 "Module file was created by an older version of the compiler" 에러가 나왔다. 현상을 찾아보니 xcode7에서 사용하다가 이번에 업데이트 하면서 충돌이 난듯하다. 기존 DerivedData를 제거("Remove all the derive data rm -rf ~/Library/Developer/Xcode/DerivedData/")하고 "carthage update --no-use-binaries."명령어 실행후 실행하니 매우 잘됬다
+   
+----
 #### 2016. 09. 22
    * 비디오 첨부시, 비디오 섬네일 이미지가 이상하게 돌아가있는 현상이 나타났다. 아래 해당 코드를 입력하니 해결
    <pre><code>generator.appliesPreferredTrackTransform=true</code></pre>
