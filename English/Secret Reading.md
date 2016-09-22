@@ -120,3 +120,8 @@ Sungwon Park이 리딩 능력을 키우기위해 보는 영어 강의입니다
   * Comic Strips 끝
   * 만화를 이용하여 사회적 이슈와, 정치적 이슈들을 비판하거나 자신의 목소리를 표출한다.
 
+###2016. 09. 22
+  * Review Alaska and The Electron Microscope
+  * Remember the topic of Alaska
+
+
