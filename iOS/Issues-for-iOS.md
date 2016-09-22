@@ -28,4 +28,6 @@ Sungwon Park이 아이폰 프로젝트를 하면서 이슈 사항들과 해결�
   
 #### 2016. 09. 17
    * 이번에 xcode8로 업데이트 하면서 "Module file was created by an older version of the compiler" 에러가 나왔다. 현상을 찾아보니 xcode7에서 사용하다가 이번에 업데이트 하면서 충돌이 난듯하다. 기존 DerivedData를 제거("Remove all the derive data rm -rf ~/Library/Developer/Xcode/DerivedData/")하고 "carthage update --no-use-binaries."명령어 실행후 실행하니 매우 잘됬다 
-
+#### 2016. 09. 22
+   * 비디오 첨부시, 비디오 섬네일 이미지가 이상하게 돌아가있는 현상이 나타났다. 아래 해당 코드를 입력하니 해결
+   <pre><code>generator.appliesPreferredTrackTransform=true</code></pre>
