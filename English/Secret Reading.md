@@ -124,4 +124,6 @@ Sungwon Park이 리딩 능력을 키우기위해 보는 영어 강의입니다
   * Review Alaska and The Electron Microscope
   * Remember the topic of Alaska
 
+###2016. 09. 25
+  * Memorize Alask and The Electron Microscope
 
