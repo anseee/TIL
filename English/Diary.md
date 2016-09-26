@@ -77,3 +77,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 ### 2016. 09. 12 
    * Wow.. I'm very very tired. Yesterday is sunday. it is holiday!! but I worked.. because monday 2a.m is relase app for client company. So we should not have to go in company but doing. and We made for 24 hours. No sleep No rest just work and work Ha.. Now for writing this diary. I'am thinking that i do and i got angry like angry bird. Aha!!!!!!!!!!!!!!!!!!!! 
    
+### 2016. 09. 26
+   * I do not write a diary because I had resolve a many issues for project of iOS. In addition, I can't think about studying english. So I wouldn't have constrainted only one to my doing that. Anyway I am currently writing this. I am so happy about having the relax time and taking a rest. From now I am going to write a diary again. 
+
