@@ -80,3 +80,5 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
 ### 2016. 09. 26
    * I do not write a diary because I had resolve a many issues for project of iOS. In addition, I can't think about studying english. So I wouldn't have constrainted only one to my doing that. Anyway I am currently writing this. I am so happy about having the relax time and taking a rest. From now I am going to write a diary again. 
 
+### 2016. 09 29
+   * I'm concerning about How I am good at english. I have entered in github and used this site for Writing what i study. In additional, Most written things are about english. So I wanna know whether good or not to study english. I think I have to speak english to other foreigner but i didn't because I have no brave mind. I know just do it but I just think that's all. So I think that I have to change my mind about it. Yesterday I saw the video about mawin's presentation. One of the speak by him, He was doing about study english. He just go out side and just speak other people for foreigner. And I feel his challenge sprit. So I must change my attitude about that
