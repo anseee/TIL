@@ -11,7 +11,7 @@ var, let array = [String]()으로 빈 배열을 만들거나, var, let array[Str
 += 를 통해서 배열 뒤에 여러 값을 붙일 수 있다. 보통은 append명령어 이용
 
 ####Set
-var, let setValue = Set<Type>과 같이 선언
+var, let setValue = Set<Type>()과 같이 선언
 
 순서는 없다. 값은 중복되지 않는다, 중복된 값을 넣으면 하나는 제거됨.
 
