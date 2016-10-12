@@ -85,3 +85,6 @@ Sungwnon Park이 영어 공부를 위해 영어일기를 작성합니다.
    
 ### 2016. 10. 10
 Today I attended the reserve forces at 13:00. I arrived this location and just sat down on the chair. and I heard about today's training. but I don't heard on my mind I thought different it. Anyway I went to the park around the Incheon city hall. and I was trained by trainer. I never heard about training I thought many things about my future and methods for studying basic programming, economy etc. I realized I should try like when i was student. When I was student, I tried to study anything. 
+
+###2016. 10. 13
+I worked up early morning. It is 5:41. I suddenly thought about git. I realized that I have to use git flow. A few months ago My colleague tell me about GitFlow. But I didn't use it. I'm hard to manage for release version and hot fix, etc in the project. Now I studied about GitFlow and I got a shock :(. Why don't I use this? I should have done it in advance. Anyway I get this. I'm going to use this in my project in the company. 
