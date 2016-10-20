@@ -28,4 +28,8 @@
 * brew install icu4c 명렁어 치고 나서
 * sudo gem install gollum 하니까 설치됨..
 
+##깃 플로우 사용시 팁
 
+###릴리즈 , 핫픽스 이슈를 고칠때 모르고 마스터 또는 개발에서 코드를 수정한 상황
+당황하지 않고, 터미널을 연다. 명령어로 git checkout -b release(또는 hot fix)/브런치이름 master(또는 develop)를 입력하면 변경되어있다.
+만약 로컬에 master 또는 develop이 없을경우는 맨 뒤에 origin/master(develop)으로 하면 가져온다.
