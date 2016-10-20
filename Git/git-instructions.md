@@ -24,6 +24,10 @@
 * origin  https://github.com/USERNAME/OTHERREPOSITORY.git (fetch)
 * origin  https://github.com/USERNAME/OTHERREPOSITORY.git (push)
 
+### remote 저장소 이름 변경하기
+* git remote rename REMOTE_NAME NEW_NAME
+* e.g.) git remote rename origin new-origin
+
 ## icu required (brew install icu4c or apt-get install libicu-dev) 
 * brew install icu4c 명렁어 치고 나서
 * sudo gem install gollum 하니까 설치됨..
