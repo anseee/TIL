@@ -17,4 +17,6 @@ Sungwon park이 이번 iOS10에서 어떤 sdk를 개발자들에게 공개하였
 ##Phone + Apps.
 이제 VOIP앱들은 CallKit Framework를 통해서 Phone UI와 통합하여 사용자들에게 더욱더 멋진 경험을 줄 수 있게 되었습니다. 잠금 화면에서도 전화가 오는것처럼 동일하게 표현되며, 연락처 관리등을 할 수 있습니다.
 
-
+##iOS10 Issues
+권한 요청시 죽음 (Info.plist에 아래 링크에서 언급하는 알맞는 권한을 설정해줘야함) 예로 카메라, 마이크 접근
+http://stackoverflow.com/questions/38236723/ios-10-error-access-private-when-using-uiimagepickercontroller
