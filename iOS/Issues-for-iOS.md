@@ -41,3 +41,32 @@ REST API를 순차적으로 요청해야하는 로직을 짜야할 필요가 있
 이모티콘 즐겨찾기 부분은 이전에 만들어둔 코어데이터를 이용해서 기능이 만들어져 있는 상태였다. 그런데 즐겨찾기를 하고 나서 앱을 종료하고 보니, 즐겨찾기가 저장이 되지 않았다. 왜그런가 보니 코어데이터에서 NSManagedContext 에서 save라는 메서드가 있었고 이 메서드를 호출하지 않아서 저장하지 못했다. 
 
 이번 이모티콘 기능을 만들면서 Realm에 대한 이해도와, 로직에 관한 몇몇 부분들, 코어 데이터의 특징들을 공부했다. 오늘도 많은것을 배우고 간다. 난 아직 멀었다 더욱더 공부하도록 하자.   
+
+
+#### 2016. 11. 11
+CocoaPods 1.0 으로 마이그레이션 작업실시 
+
+ sudo gem install cocoapods-deintegrate cocoapods-clean
+$ pod deintegrate
+$ pod clean
+$ rm Podfile
+
+명렁어 실행 후
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+target 'projectTargetName' do
+
+end
+
+target 'projectTargetNameTests' do
+
+end
+
+이전에 클래스안에서 변경되었던 부분 덮어 쓰고
+
+mqtt 시큐어 문제
+In order to validate a domain name for self signed certificates, you MUST use pinning.
+
+WITH_TLS pods에도 적용
