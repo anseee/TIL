@@ -53,5 +53,79 @@ for _ in 1...size {
 	keyword = padChar + keyword
 }
 ```
+###4.1.5 repeat ~ while 구문
+스위프트 2버전에서 repeat ~ while 구문으로 변경되었다. 코드 블록을 일단 실행한 다음, 조건식을 평가하여 그다음 반복을 수행할지를 결정한다. 따라서 조건식을 ㅁ너저 평가하여 false가 반환되면 실행 블록을 아예 수행하지 않는 while 구문에 비해 실행 블록에 대해 최소 한 번의 수행은 보장하는 것이 repeat ~ while 구문의 특징이다.
+
+```Swift
+var n = 1024
+while n < 1000 {
+	n = n * 2
+}
+// n = 1024
+```
+
+###4.2.2 guard 구문
+if 구문과의 차이점은 guard 구문에는 else 블록이 필수이지만, 표현식의 결과가 참일 때 실행되는 블록이 없다.
+
+```Swift
+guard 조건식 또는 표현식 else {
+	실행할 구문(조건 또는 표현식의 결과가 false일 때)
+}
+```
+
+guard 구문은 주로 후속 코드들이 실행되기 전에 반드시 특정 조건을 만족하는지 확인하는 용도로 사용합니다. 다시 말해 guard 구문은 특정 조건을 만족하지 않는 채 후속 코드를 실행하면 심각한 오류가 발생하는 경우, 그 대신 전체 구문을 조기 종료하기 위한 목적으로 사용한다. 따라서 guard 구문의 else 블록을 작성할 때에는 이후의 코드가 더 진행되지 않게 처리하는 작업이 필요하다. guard 구문이 주로 사용되는 함수나 메소드에서는 return 구문이 이 역할을 한다.
+
+```Swift
+func devide(base : Int) {
+	guard base != 0 else {
+    	print("연산할 수 없습니다.")
+        return
+    }
+     
+    let result = 100 / base
+    print(result)
+}
+
+###4.2.3 #available 구문
+앱을 개발하다보면 앱이 실행될 기기의 iOS버전별로 구문을 다르게 작성해야 할 때가 종종 있다. 사용하고자 하는 기능이 OS 버전에 따라 다르게 제공되거나 하위 버전에서는 지원되지 않는 것이 가장 큰 원인인데, 이를 보통 현업에서는 'API가 버전을 탄다'라고 표현한다. 애플에서 제공하는 코코아 터치 프레임워크의 주요 API들은 대부분 iOS 버전이 업그레이드될 때마다 개량을 거듭해온 것이어서 이처럼 iOS 버전에 따라 사용이 제한되기도 하는데, 애플 개발자용 API문서를 확인하면 API를 사용할 수 있는 버전에 대한 정보들을 확인할 수 있다.
+
+API정보에 들어가면 availability 항목을 볼 수 있다. 이것은 메소드를 사용할 수 있는 OS버전을 알려주는 역할을 한다. 최신 OS버전에서만 지원되는 코드를 사용하게 될 때는 반드시 그보다 하위 버전의 OS를 사용하는 사용자를 고려해야한다.
+
+#availiable 구문은 스위프트 2 버전부터 지원하기 시작한 구문이다. 그 이전에는 OS 버전을 추출하는 API를 직접 호출하여 OS 버전에 대한 값을 얻고, 이를 조건문에서 비교 처리하는 방식으로 버전별 구문을 분리했다. 예를 들먼 다음과 같다.
+
+```Swift
+import UIKit
+
+if UIDevice.currentDevice().systemVersion.hasPrefix("9") {
+
+} else if UIDevice.currentDevice().systemVersion.hasPrefix("8") {
+
+} else if UIDevice.currentDevice().systemVersion.hasPrefix("7") {
+
+} else {
+
+}
+```
+
+이 방식에 크게 문제가 있었던 것은 아니지만, 버전을 직접 비교하는 것이 아니라 버전의 문자열을 비교해야 하므로 비교의 한계가 있었던 것 또한 사실이다. 이 방식으로 처리했던 과정을 #available 구문으로 처리하면 보다 직접적으로 OS 버전별 구문을 분리 할 수 있다.
+
+#availiable 구문을 사용하는 형식은 다음과 같다
+
+```Swift
+if #availiable (플랫폼 이름 버전,... *) {
+	해당 버전에서 사용할 수 있는 API구문
+} else {
+	API를 사용하지 못했을 때에 대한 실패 처리
+}
+```
+
+```Swift
+if #availiable (iOS 9, OSX 10.10, watchOS 1, *) {
+        // iOS 9용 API 구문 또는 OS X 10.10용 API구문, watchOS 1용 API 구문
+} else {
+		// API를 사용하지 못했을 때에 대한 실패 처리
+}
+```
+
 
 
