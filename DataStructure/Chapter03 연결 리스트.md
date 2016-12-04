@@ -88,3 +88,97 @@ int LCount(List *plist);
 - 리스트에 저장되어 있는 데이터의 수를 반환한다.
 
 여기서 왜 LNext를 이용해서 가리키면 될것을 왜 LFirstr존재 할까? 리스트에 데이터가 10개가 저장되어있다고 가정하자. 그리고 데이터를 계속해서 조회하다가 맨처음부터 돌아가려면 어떻게 해야할까? LNext만 있다면 그것이 매우 비효율적이고 어려울것이다. 그래서 초기화를 위해 LFirst란 함수가 존재하는것이다.
+
+
+###연결 리스트 직접 구현하기 실습 진행
+지우는 함수는 아직 구현 못함.
+
+```C
+//
+//  ArrayList.h
+//  LinkedList
+//
+//  Created by 박성원 on 2016. 12. 4..
+//  Copyright © 2016년 sungwon. All rights reserved.
+//
+
+#ifndef ArrayList_h
+#define ArrayList_h
+
+#define TRUE 1
+#define FALSE 0
+
+#define LIST_LEN 100
+typedef int LData;
+
+typedef struct __ArrayList { // 배열기반 리스트를 정의한 구조체
+    LData arr[LIST_LEN]; // 리스트의 저장소인 배열
+    int numOfData; // 저장된 데이터의 수
+    int curPosition; // 데이터 참조위치를 기록
+} ArrayList;
+
+typedef ArrayList List;
+
+void ListInit(List *plist); // 초기화
+void LInsert(List *plist, LData data); // 데이터 저장
+
+int LFirst(List *plist, LData *pdata); // 첫 데이터 참조
+int LNext(List *plist, LData *pdata); // 두 번째 이후 데이터 참조
+
+LData remove(List *plist); // 참조한 데이터 삭제
+int LCount(List *plist); // 저장된 데이터의 수 반환
+
+#endif /* ArrayList_h */
+
+//
+//  ArrayList.c
+//  LinkedList
+//
+//  Created by 박성원 on 2016. 12. 4..
+//  Copyright © 2016년 sungwon. All rights reserved.
+//
+
+#include "ArrayList.h"
+
+void ListInit(List *plist) {
+    plist->numOfData = 0;
+    plist->curPosition = -1; // 아무런 위치를 참조 하지 않음을 의미 -1은 의미 부여에 따라 다를 수 있다.
+}
+
+void LInsert(List *plist, LData data) {
+    
+    if (plist->numOfData <= LIST_LEN) {
+        plist->arr[plist->numOfData] = data;
+        plist->numOfData += 1;
+    }
+    
+}
+
+int LFirst(List *plist, LData *pdata) {
+    
+    if (plist->numOfData == 0) {
+        return FALSE;
+    }
+    
+    plist->curPosition = 0;
+    *pdata = plist->arr[0];
+
+    return TRUE;
+}
+
+int LNext(List *plist, LData *pdata) {
+    
+    if (plist->curPosition >= (plist->numOfData) - 1) {
+        return FALSE;
+    }
+    
+    plist->curPosition += 1;
+    *pdata = plist->arr[plist->curPosition];
+    
+    return TRUE;
+}
+
+int LCount(List *plist) {
+    return plist->numOfData;
+}
+```
